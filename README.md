@@ -1,4 +1,4 @@
-ZumoPololyLineFollower
+ZumoPololuLineFollower
 ======================
 
 Ejemplo de seguidor de lineas utilizando hardware de Pololu.
